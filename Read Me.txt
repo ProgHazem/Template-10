@@ -1,0 +1,25 @@
+******************************************************************
+========== Simple Site for NARROW ==============
+
+Template 10
+
+==> use HTML5.
+
+==> use CSS3.
+
+==> use Bootstrap
+
+==> use Fontawesome
+
+==> use Jquery
+
+==> use WOW Library
+
+==> use Jquery Nicescroll
+
+==> use Google Fonts
+
+
+                                               thanks for reading
+                                                      Hazem
+*******************************************************************
